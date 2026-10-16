@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.carnet_adresses_repere",
+    "sha256_cert_fingerprints": [
+      "8E:7D:D7:4C:10:CE:52:F4:00:5D:31:31:7D:2D:FB:75:E2:09:2B:D0:65:59:FF:E3:D9:44:0A:05:38:47:D8:83"
+    ]
+  }
+}]
